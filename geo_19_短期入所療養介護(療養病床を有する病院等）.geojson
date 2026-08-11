@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_19_短期入所療養介護(療養病床を有する病院等）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "国民健康保険　富士吉田市立病院【短期入所療養介護(療養病床を有する病院等）】山梨県富士吉田市上吉田6530", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1911210886-00&ServiceCd=&Type=search", "url2": "http://www.city.fujiyoshida.yamanashi.jp/" }, "geometry": { "type": "Point", "coordinates": [ 138.806199, 35.4649437 ] } },
+{ "type": "Feature", "properties": { "内容": "短期入所療養介護施設ほくと診療所【短期入所療養介護(療養病床を有する病院等）】山梨県北杜市明野町上手５２０", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1971900343-00&ServiceCd=&Type=search", "url2": "http://www.ryokuju.com/" }, "geometry": { "type": "Point", "coordinates": [ 138.4288651, 35.7706166 ] } },
+{ "type": "Feature", "properties": { "内容": "花の丘たちかわクリニック【短期入所療養介護(療養病床を有する病院等）】山梨県笛吹市境川町大坪１０３", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1970500672-00&ServiceCd=&Type=search", "url2": "https://hananooka.com" }, "geometry": { "type": "Point", "coordinates": [ 138.609419699999989, 35.6089054 ] } },
+{ "type": "Feature", "properties": { "内容": "山梨赤十字病院療養型介護病棟【短期入所療養介護(療養病床を有する病院等）】山梨県南都留郡富士河口湖町船津６６６３－１", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1911310553-00&ServiceCd=&Type=search", "url2": "http://www.yamanashi-rc.jp/" }, "geometry": { "type": "Point", "coordinates": [ 138.760056800000029, 35.4584271 ] } }
+]
+}

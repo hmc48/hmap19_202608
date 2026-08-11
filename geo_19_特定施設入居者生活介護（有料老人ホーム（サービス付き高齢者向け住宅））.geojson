@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_19_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付きホーム奏楽甲府東【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】山梨県甲府市上阿原町971-7", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1970105803-00&ServiceCd=&Type=search", "url2": "https://sorakofuhigashi.plus-you.jp/" }, "geometry": { "type": "Point", "coordinates": [ 138.6090711, 35.6514455 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付きホーム奏楽上阿原【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】山梨県甲府市上阿原町1055-1", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1970105811-00&ServiceCd=&Type=search", "url2": "https://sorakamiahara.plus-you.jp" }, "geometry": { "type": "Point", "coordinates": [ 138.608251273199386, 35.648857836944423 ] } }
+]
+}

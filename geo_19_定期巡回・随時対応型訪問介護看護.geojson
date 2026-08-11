@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_19_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "定期巡回・随時対応型訪問介護看護　みんなの家　青沼【定期巡回・随時対応型訪問介護看護】山梨県甲府市青沼2-22-14", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1990100552-00&ServiceCd=760&Type=search", "url2": "https://www.takumi.sc/welfare" }, "geometry": { "type": "Point", "coordinates": [ 138.578484399999979, 35.6532897 ] } },
+{ "type": "Feature", "properties": { "内容": "ヘルパーステーションいけだ（定期巡回・随時対応型訪問介護看護）【定期巡回・随時対応型訪問介護看護】山梨県甲府市下飯田1-2-18", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1990100487-00&ServiceCd=760&Type=search", "url2": "https://ykf.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 138.545021099999985, 35.6689024 ] } },
+{ "type": "Feature", "properties": { "内容": "ﾃｲｷｼﾞｭﾝｶｲｽﾞｲｼﾞﾀｲｵｳｶﾞﾀﾎｳﾓﾝｶｲｺﾞｶﾝｺﾞｼﾞｷﾞｮｳｼｮｺｽﾓ･ｱﾝｼｱ【定期巡回・随時対応型訪問介護看護】山梨県甲府市青沼3-4-14", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1990100453-00&ServiceCd=760&Type=search", "url2": "https://ikiikiclub.com" }, "geometry": { "type": "Point", "coordinates": [ 138.5768672, 35.6524776 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回随時対応型訪問介護・看護事業所　あゆみ【定期巡回・随時対応型訪問介護看護】田原4丁目4番地2号", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1991100072-00&ServiceCd=760&Type=search", "url2": "https://thrifty-cyclamen-zth5k6.mystrikingly.com/" }, "geometry": { "type": "Point", "coordinates": [ 138.894000799999986, 35.5412543 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回・随時対応型訪問介護看護ももその【定期巡回・随時対応型訪問介護看護】山梨県南アルプス市桃園379", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1991600220-00&ServiceCd=760&Type=search", "url2": "https://ykf.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 138.4631489, 35.628427 ] } },
+{ "type": "Feature", "properties": { "内容": "あさがお定期巡回・随時対応型訪問介護看護事業所【定期巡回・随時対応型訪問介護看護】山梨県甲斐市篠原1895-1", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1991700251-00&ServiceCd=760&Type=search", "url2": "http://www.ryuo-rhp.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 138.519718557489483, 35.653716864433193 ] } },
+{ "type": "Feature", "properties": { "内容": "甲州定期巡回・随時対応型訪問介護看護ステーション【定期巡回・随時対応型訪問介護看護】山梨県笛吹市石和町四日市場2031", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1991800069-00&ServiceCd=760&Type=search", "url2": "https://www.krg.ne.jp/care/" }, "geometry": { "type": "Point", "coordinates": [ 138.6252819, 35.6457142 ] } }
+]
+}

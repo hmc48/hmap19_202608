@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_19_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ラ・ナシカこうふ【地域密着型特定施設入居者生活介護（有料老人ホーム）】山梨県甲府市荒川1丁目3番26号", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1990100230-00&ServiceCd=361&Type=search", "url2": "http://www.cedar-group.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 138.5408722, 35.674043 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム夢眠やまなし【地域密着型特定施設入居者生活介護（有料老人ホーム）】山梨県山梨市小原西6番地6", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1990200147-00&ServiceCd=361&Type=search", "url2": "https://muminhome.jp/yamanashi/" }, "geometry": { "type": "Point", "coordinates": [ 138.6892881, 35.6926618 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホーム　サンホームからかしわ【地域密着型特定施設入居者生活介護（有料老人ホーム）】山梨県笛吹市石和町唐柏400-1", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1991800267-00&ServiceCd=361&Type=search", "url2": "http://www.krg.ne.jp/sunlife/" }, "geometry": { "type": "Point", "coordinates": [ 138.616234100000014, 35.6343508 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム　リブズ笛吹【地域密着型特定施設入居者生活介護（有料老人ホーム）】山梨県笛吹市御坂町成田2477-1", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1991800010-00&ServiceCd=361&Type=search", "url2": "http://www.ribs-fuefuki.jp/" }, "geometry": { "type": "Point", "coordinates": [ 138.642537, 35.6422426 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム萩の里【地域密着型特定施設入居者生活介護（有料老人ホーム）】山梨県甲州市塩山下小田原590-3", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1992200020-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 138.768637, 35.729841 ] } }
+]
+}

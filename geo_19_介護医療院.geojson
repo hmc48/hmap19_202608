@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_19_介護医療院",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人慶友会　城東病院介護医療院【介護医療院】山梨県甲府市城東4-13-15", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1970105142-00&ServiceCd=550&Type=search", "url2": "http://joto-group.com" }, "geometry": { "type": "Point", "coordinates": [ 138.5820127, 35.6574981 ] } },
+{ "type": "Feature", "properties": { "内容": "箭本外科整形外科医院介護医療院【介護医療院】北口３－１－１", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1910114675-00&ServiceCd=550&Type=search", "url2": "http://www.yamotogekaseikeigeka.com/" }, "geometry": { "type": "Point", "coordinates": [ 138.572003, 35.667178 ] } },
+{ "type": "Feature", "properties": { "内容": "ツル虎ノ門整形外科・リハビリテーション病院介護医療院【介護医療院】山梨県都留市四日市場瀬中188", "url": "https://www.kaigokensaku.mhlw.go.jp/19/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1911110474-00&ServiceCd=550&Type=search", "url2": "https://www.toranomon.or.jp/turu/" }, "geometry": { "type": "Point", "coordinates": [ 138.9177641, 35.5675086 ] } }
+]
+}
